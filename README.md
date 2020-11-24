@@ -15,15 +15,18 @@ This is a GIS database of the origin place of medicines recorded in ancient phar
 Figure.1 Distribution Map in Han Dynasty
 
   However, the south was given more attention by Tao Hongjing who lived in Southern Qi 南齐 in the Northern and Southern Dynasties 南北朝 (Figure.2). The capital of Southern Qi is in Jian Kang 建康, which is in today’s Nanjing. Tao was born in Jian Kang and served in the royal court there as a scholar. Then, he retired in Maoshan 茅山, a mountain near Jian Kang. In the preface of *shennong bencao jing jizhu*, Tao mentioned that the book was written during his retirement. Therefore, because of Tao’s personal experiences, the region of Jiangnan 江南, the lower reaches of the Yangtze river where Jian Kang locate, was given enough attention: there are three places mentioned Wu Xing 吴兴, Qian Tang 钱塘 and Maoshan 茅山 that appears twice in the book. Tao Hongjing also added many new places in the south into his comments to *shennong bencao jing*, which is the reflection of the development of southern China under the reign of Southern Dynasties. Except southern China, many other regions in northern China were also included, which suggests that even though China was divided at that time, the communication between north and south didn’t cease. 
- 
+
+![image](https://raw.githubusercontent.com/shaobaixiong/Ancient-Pharmaceutical-Encyclopedias-of-China/main/img/snbcjjz.png)
 Figure.2 Distribution Map in Northern and Southern Dynasties
 
   The distribution of places in Tang dynasty weights north and south equally, which is because of the unified nature of Tang. Additionally, more oversea places were mentioned like *shizi guo* 师子国 (Sri Lanka), *bosi guo* 波斯国 (Persia), *gaoli* 高丽 (Korean Peninsula), and *funan* 扶南 (probably in Cambodia), which reflects intensified international communications at that time. 
- 
+
+![image](https://raw.githubusercontent.com/shaobaixiong/Ancient-Pharmaceutical-Encyclopedias-of-China/main/img/xxbc.png)
 Figure.3 Distribution Map of Tang Dynasty
 
   The second aspect to be examined is the relationship between space and the precision of locations. According to population data of prefectures in 2CE from 中国历代户口、田地、田赋统计, a heat-map was drawn as the background of the map. The result suggests that the precision of places has relationship with population (Figure.4). Many places with high precision are around the core regions of the Han Dynasty (simply assume that population density reflects core regions). It may suggest that people’s knowledge of the environment is still limited to the surrounding area of the places where they lived.  
- 
+
+![image](https://raw.githubusercontent.com/shaobaixiong/Ancient-Pharmaceutical-Encyclopedias-of-China/main/img/precision.png)
 Figure.4 Comparison of Precision of Places and Population
   
   The third aspect to be examined is the influence of space on the tertiary classification system (upper, middle, and lower). The result shows that medicines from distant parts of the empire has higher possibility to be categorized under the level of upper probably because they were difficult to acquire. Places with ritual values, like Taishan 泰山 and Songshan 嵩山, contributes to many upper-level medicines. Their symbolic value possibly influenced the classification system. Then, the middle-class medicines probably refer to those medicines that people know well. Most of the middle-class medicines come from the north, the place that the compiler came from. Because of the popularity of such medicines, they would be classified as middle-class. The south has much less middle-class medicines than any other regions, which is probably because that it is the most difficult place to reach and medicines there are completely new for compilers from the north.  
